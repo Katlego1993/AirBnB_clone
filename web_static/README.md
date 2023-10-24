@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x01. AirBnB clone - Web static
 Background Context
 Web static, what?
@@ -63,3 +64,6 @@ You are not allowed to use Javascript
 Current screenshots have been done on Chrome 56 or more.
 No cross browsers
 You have to follow all requirements but some margin/padding are missing - you should try to fit as much as you can to screenshots
+=======
+AirBnB_clone
+>>>>>>> 55ee0c5239893c42778483aeb29e87dc2653e833
